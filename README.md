@@ -15,3 +15,5 @@
 - 📫 How to reach me : 
    ⮩ Discord : ! gqdThinky#0001
    ⮩ Mail : obvThinky@gmail.com
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M5CA8OW)
