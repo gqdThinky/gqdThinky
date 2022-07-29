@@ -10,7 +10,7 @@
    ⮩ C#
 
 - 💞️ I’m looking to collaborate on 
-   ⮩ Collaborations are closed.
+   ⮩ Collaborations are opened.
 
 - 📫 How to reach me : 
    ⮩ Discord : </gqdThinky>#0001
