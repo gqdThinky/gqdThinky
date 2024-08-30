@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Ubuntu+Sans+Mono&color=67978F&lines=Hi+fellow+devs!;I'm+gqdThinky!;A+passionate+game+developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Sans+Mono&pause=1000&color=67978F&width=435&lines=Hi+fellow+devs!;I'm+gqdThinky!;A+passionate+game+developer" />
 </h1>
 
 <h3 align="center">A passionate software developer from France 🇫🇷</h3>
