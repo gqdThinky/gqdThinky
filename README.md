@@ -1,4 +1,5 @@
-<h3 align="left">Hi 👋! My name is gqdThinky and I'm a 17yo developer & musician, from France</h3>
+<h3 align="center">Hi 👋! My name is gqdThinky and I'm a 17yo developer & musician, from France</h3>
+<h3 align="center">I'm currently working on a Minecraft client called 'Amber Client'!</h3>
 
 ###
 
@@ -83,13 +84,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gqdThinky/gqdThinky/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/gqdThinky">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nfv52dwq7kj6sajr5m3mp7vspa" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
